@@ -10,6 +10,7 @@ The dataset used in this project is from a 2014 survey measuring attitudes towar
 # Files Included
 * _mind_matters_JUP.ipynb_ is a Jupyter notebook detailing our analysis, methods, and results
 * _mind_matters_report.pdf_ explains the motivations, data cleaning and analysis, as well as a detailed description of all results and plots
+* techmentalhealth.csv is the dataset used in this project
 
 # Authors
 This project was the collaborative effort of Shiwei Li, Yuchen Zhang, and Young Ji Tuen. 
